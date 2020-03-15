@@ -1,5 +1,6 @@
 # The Cat’s Revenge
 = An excerpt from the “Canticle of Barbaro”
+= Test
 
 EST. The Quatrian cat spirits, Chabderhuff and his sister Chabderal, featured in a number of Quatrian folktales. The following excerpt (trans. Newman 1987) is the most well-known. This tale appears in the “Canticle of Barbaro,” played and sung in two part harmony by Benda and Ofend as they departed Quatria in their fishing vessel. In the midst of a squall, the sailors chanted this light-hearted tale to calm their nerves.
 
